@@ -6,18 +6,12 @@ I am a dedicated software professional with over 7 years of experience in the we
 
 ---
 
-### 🔭 I’m currently working on
-* **SaaS School Management System:** A multi-tenant platform built with Laravel featuring advanced user panels and automation.
-* **Smart SMS BD:** Developing a specialized WordPress plugin for WooCommerce notifications via SMS and WhatsApp.
-* **Fantasy Sports Platform:** Building a cricket-focused fantasy application using Laravel.
+### 🔭 I’m currently working on ** SaaS School Management System: A multi-tenant platform built with Laravel featuring advanced user panels and automation.
 
-### 👯 I’m looking to collaborate on
-* **Open-source Laravel Packages:** Anything related to multi-tenancy or SaaS boilerplate logic.
-* **IoT & Biometrics:** Integrating hardware like ZKTeco or Realtime attendance devices with web APIs.
 
-### 🤝 I’m looking for help with
-* **Database Optimization:** Scaling PostgreSQL/MySQL for high-concurrency SaaS environments.
-* **Advanced Server Security:** Hardening VPS environments and securing remote database connections.
+### 👯 I’m looking to collaborate on Anything related to multi-tenancy or SaaS boilerplate logic, Integrating hardware like ZKTeco or Realtime attendance devices with web APIs.
+
+### 🤝 I’m looking for help with Scaling PostgreSQL/MySQL for high-concurrency SaaS environments,  Hardening VPS environments and securing remote database connections.
 
 ### 🌱 I’m currently learning
 * **Data Science & AI:** Deepening my understanding of Support Vector Machines (SVM) and Naive Bayes.
